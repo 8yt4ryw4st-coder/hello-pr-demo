@@ -2,7 +2,7 @@ import sys
 
 
 def greet(name: str) -> str:
-    return f"Hello, {name}! Welcome to your frist pull request."
+    return f"Hello, {name}! Welcome to your first pull request."
 
 
 if __name__ == "__main__":
